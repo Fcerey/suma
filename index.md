@@ -17,4 +17,5 @@ actualmente, por lo que eso puede usarse para llamar la atención del lector
 hace que visualmente pueda sentirse menos tedioso de leer
 + Columnas y márgenes: hacen lo mismo que el punto anterior además de que ayudan
 a no perderse en la lectura haciendo que esta sea más fluida.
+
 Todos estos elementos se pueden usar para llamar la atención de la gente y hacer que por medio del interés visual lean el texto.
