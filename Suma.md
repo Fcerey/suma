@@ -17,9 +17,7 @@
 
 ## Bibliografía
 
-
 Bibliografía básica:
-Hildegarda:
 + De Bingen, Hildegarda. Libro de los méritos a la vida. 2009.
 + De Bingen, Hildegarda. Libro de las obras divinas. 2007.
 + De Aquino, Tomás. Suma de teología. 4ta ed. Madrid: Biblioteca de autores cristianos, 1993.
