@@ -14,3 +14,23 @@
 ![894AB650-0AD1-4EC9-8265-E060A840F60C](https://user-images.githubusercontent.com/120075006/208195444-94b131c3-4026-4abc-81c1-d8c1cf303585.jpeg)
 ![A0DA45F3-AB23-443F-BDD8-D240E6F2BAF5](https://user-images.githubusercontent.com/120075006/208195456-f9613fb9-6e5a-4db8-bd6b-e66f66520b4e.jpeg)
 ![75570281-5C08-4895-A067-DCC750FE5521](https://user-images.githubusercontent.com/120075006/208195462-41228f15-fa84-4e60-8233-b4018aa14989.jpeg)
+
+## Bibliografía
+
+
+Bibliografía básica:
+Hildegarda:
++ De Bingen, Hildegarda. Libro de los méritos a la vida. 2009.
++ De Bingen, Hildegarda. Libro de las obras divinas. 2007.
++ De Aquino, Tomás. Suma de teología. 4ta ed. Madrid: Biblioteca de autores cristianos, 1993.
++ De Aquino, Tomás. Cuestiones disputadas sobre el alma. 4ta ed. Madrid: Ediciones Universidad de Navarra S.A., 1999.
++ Abû Nars, al-Fârâbî. Obras filosóficas y políticas. Madrid: Trotta, 2008.
++ Maldonado Juárez, Edgar Daniel. El camino de la felicidad : la reforma de la conciencia política árabo-islámica en el pensamiento de Al Farabí. Tesis de Licenciatura, Universidad Nacional Autónoma de México, 2015. http://132.248.9.195/ptd2015/mayo/0729493/0729493.pdf 
+
+
+Bibliografía complementaria: 
++ Barron Cepeda, Dulce María. Nocion de persona humana en la primera parte, cuestion 29, de la Suma Teologica de Tomas de Aquino. Tesis de Licenciatura, Universidad Nacional Autónoma de México, 2006. http://132.248.9.195/pd2007/0610247/Index.html
++ Carmen Minecan, Ana Maria. Determinismo, regularidad y contingencia: Tomás de Aquino y la asimilación del aristotelismo en torno al orden autónomo de lo natural. Filosofia UNISINOS, n. 3, 2016, pp. 291-301. DOI: 10.4013/fsu.2016.173.05. 
++ Fraboschi, Azucena A. Scivias, de Hildegarda de Bingen : declaración de las verdaderas visiones que fluyen de Dios: análisis y comentario al modo de una lectio medievalis. Stylos, n. 15, 2006. (no encontré el DOI). http://bibliotecadigital.uca.edu.ar/repositorio/revistas/scivias-declaracion-verdaderas-visiones.pdf 
++ Pereira da Silva, Francisca Galiléia. Una articulación entre política y lenguaje en el pensamiento filosófico de al-Farabi. Tesis de Doctorado, Universidad Complutense de Madrid, 2015. https://eprints.ucm.es/id/eprint/33740/1/T36579.pdf
++ Romero Tovar, Margarita Guadalupe. Hildegarda de bingen y la medicina a partir de los textos de dioscorides. Tesis de Maestría, Universidad Nacional Autónoma de México, 2006. https://repositorio.unam.mx/contenidos/99869
